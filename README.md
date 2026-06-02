@@ -7,5 +7,6 @@ a projct created for the purpose of degree completion for managing airport opera
 ## technologies used
 -java
 -mysql
+-django
 ## status
 work in progress
